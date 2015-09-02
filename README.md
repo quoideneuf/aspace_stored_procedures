@@ -17,6 +17,10 @@ Open archivesspace/config/config.xml and uncomment the AppConfig[:plugins] line 
 
 Add 'aspace_stored_procedures' to the array
 
+Stop ArchivesSpace
+
+Run archivesspace/scripts/setup-database.sh (.bat on Windows)
+
 Restart ArchivesSpace
 
 
